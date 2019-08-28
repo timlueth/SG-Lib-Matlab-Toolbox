@@ -3,9 +3,10 @@ Solid Geometry Library Toolbox
 
 Additional information on this toolbox can be found at: [SG-Lib.org](http://www.sg-lib.org)
 ### Releases:
-* SG-Lib 4.7 Compiled using Matlab2019a on 2019-Aug-19
-* SG-Lib 4.6 Compiled using Matlab2019a on 2019-Jun-15
-* SG-Lib 4.5 Compiled using Matlab2018a on 2019-Apr-04
+* SG-Lib 4.7.1 Compiled using Matlab2019a on 2019-Aug-28
+* SG-Lib 4.7   Compiled using Matlab2019a on 2019-Aug-19
+* SG-Lib 4.6   Compiled using Matlab2019a on 2019-Jun-15
+* SG-Lib 4.5   Compiled using Matlab2018a on 2019-Apr-04
 
 ### Examples:
 #### Create solids from mechanisms syntheses ready for STL export and 3D printing on EOS-SLS or Formlab-Form
