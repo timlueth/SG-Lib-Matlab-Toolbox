@@ -1,5 +1,6 @@
 # SG-Lib-Matlab-Toolbox
 Solid Geometry Library Toolbox
+[![View SG-Lib-Matlab-Toolbox on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/71951-sg-lib-matlab-toolbox)
 
 Additional information on this toolbox can be found at: [SG-Lib.org](http://www.sg-lib.org)
 ### Releases:
