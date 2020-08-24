@@ -12,7 +12,7 @@ Additional information on this toolbox can be found at: [SG-Lib.org](http://www.
 
 ### Examples:
 #### Create solids from mechanisms syntheses ready for STL export and 3D printing on EOS-SLS or Formlab-Form
-![just an example](https://www.mimed.mw.tum.de/fileadmin/w00bhh/www/Matlab_Toolboxes/SGPIC/SGPIC_2352.JPG)
+![just an example](https://www.mw.tum.de/fileadmin/w00btx/mimed/Matlab_Toolboxes/SGPIC/SGPIC_2352.JPG)
 ![just an example](https://github.com/timlueth/SG-Lib-Tutorials-Pics-Videos/blob/master/2019-04-16%20VIdeo%20Swing%20for%20Gripper%20attached%20object.gif)
 
 #### Create videos and animated Gifs of your self designed or imported solids, mechanisms and robots using the SG-Library
