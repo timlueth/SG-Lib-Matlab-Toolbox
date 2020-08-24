@@ -3,7 +3,7 @@ Solid Geometry Library Toolbox
 
 Additional information on this toolbox can be found at: [SG-Lib.org](http://www.sg-lib.org)
 ### Releases:
-* SG-Lib 4.9   Compiled using Matlab2019a on 2019-Aug-28 - simscape/simulink interface not usable in 2020a
+* SG-Lib 4.9   Compiled using Matlab2019a on 2020-Aug-28 - simscape/simulink interface not usable in 2020a
 * SG-Lib 4.8   Compiled using Matlab2019a on 2020-Jan-08 - request at tim.lueth  @ Tum.de
 * SG-Lib 4.7.1 Compiled using Matlab2019a on 2019-Aug-28
 * SG-Lib 4.7   Compiled using Matlab2019a on 2019-Aug-19
