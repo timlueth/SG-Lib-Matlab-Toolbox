@@ -6,7 +6,7 @@ Solid Geometry Library Toolbox
 Additional information on this toolbox can be found at: [SG-Lib.org](http://www.sg-lib.org)
 
 
-[See also some videos of Tim Lueths' robotics research at youtube](https://www.youtube.com/channel/UCnFHK7B5Sa-W-QAP0hrt7hQ/videos) 
+See also some videos of Tim Lueths' robotics research at: [youtube](https://www.youtube.com/channel/UCnFHK7B5Sa-W-QAP0hrt7hQ/videos) 
 
 
 ### Releases:
