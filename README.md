@@ -2,9 +2,22 @@
 Solid Geometry Library Toolbox
 [![View SG-Lib-Matlab-Toolbox on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/71951-sg-lib-matlab-toolbox)
 
+<<<<<<< HEAD
 Additional information on this toolbox can be found at: [SG-Lib.org](http://www.sg-lib.org)
 ### Releases:
 * SG-Lib 5.0   Compiled using Matlab2020b on 2021-Feb-24 - Full operatable version for R2020a Update 5
+=======
+
+Additional information on this toolbox can be found at: [SG-Lib.org](http://www.sg-lib.org)
+
+
+See also some videos of Tim Lueths' robotics research at: [youtube](https://www.youtube.com/channel/UCnFHK7B5Sa-W-QAP0hrt7hQ/videos) 
+
+
+### Releases:
+* SG-Lib 5.0.1 Compiled using Matlab2020b on 2021-Feb-24 - Full operatable version for R2020a Update 5 (MAC&PC)
+* SG-Lib 5.0   Compiled using Matlab2020b on 2021-Feb-24 - Full operatable version for R2020a Update 5 (MAC)
+>>>>>>> 3f8a5f576ab0d4f8eafb1f17bf6a024780501a74
 * SG-Lib 4.9.1 Compiled using Matlab2020a on 2020-Aug-30 - Full operatable version for R2020a Update 5
 * SG-Lib 4.9   Compiled using Matlab2019a on 2020-Aug-23 - simscape/simulink interface not usable in 2020a
 * SG-Lib 4.8   Compiled using Matlab2019a on 2020-Jan-08 - request at tim.lueth  @ Tum.de
