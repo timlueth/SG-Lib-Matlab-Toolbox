@@ -1,21 +1,53 @@
-MIT License
+SG-Lib Academic License (v1.0)
+Copyright (c) 2010-2026 Tim C. Lueth, Munich, Germany. All rights reserved.
 
-Copyright (c) 2019 timlueth
+This license applies to the parts of SG-Lib authored by Tim C. Lueth. Third-party
+files (e.g. MATLAB Central / File Exchange contributions) retain their own licenses
+and are NOT covered by this text.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. OWNERSHIP
+   The SG-Lib files authored by Tim C. Lueth are his private intellectual property.
+   All rights are reserved by the author.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. GRANT OF USE
+   Permission is granted, free of charge, to accredited universities and their
+   members to use SG-Lib solely for non-commercial academic research and teaching.
+   This includes calling, linking and embedding the UNMODIFIED functions in the
+   user's own research code.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. NO MODIFICATION, NO DERIVATIVES
+   The source code may not be modified, and no derivative works may be created from
+   it, without the author's prior written consent. (Using and integrating the
+   unmodified code as described in clause 2 is expressly permitted.)
+
+4. NO REDISTRIBUTION
+   SG-Lib, or any part of it, may not be redistributed, sublicensed or published
+   without the author's prior written consent.
+
+5. NO COMMERCIAL USE
+   Any commercial use, in whole or in part, requires a separate written license
+   from the author. Requests: tim.lueth@tum.de
+
+6. ATTRIBUTION
+   This copyright notice and license must be retained in every copy and in the
+   header of each covered file.
+
+7. NO WARRANTY
+   Provided "as is", without warranty of any kind, express or implied. The author
+   is not liable for any damages arising from its use.
+
+8. GOVERNING LAW
+   German law applies. Place of jurisdiction is Munich, Germany.
+
+9. THIRD-PARTY COMPONENTS
+   SG-Lib uses the following third-party software, each under its own license (see the referenced files):
+   - Manifold / manifold3d (mesh boolean and 2D projection): Apache License 2.0,
+     Copyright The Manifold Authors - see LICENSE_thirdparty_Manifold_Apache2.txt.
+     (manifold3d is installed by the user from PyPI via SGmanifoldSetup; the SG-Lib ships only the thin
+     bridge CLAUDE_sg_manifold.py / CLAUDE_sg_manifold_bridge.py.)
+   Any other third-party files that may be present retain their own licenses. (The file
+   LICENSE_thirdparty_Wasmeier_2009_orphaned.txt refers to code that is NO LONGER USED in SG-Lib - it is
+   kept only for historical attribution, not because that component is shipped or called.)
+
+Contact for permissions and commercial licensing:
+Prof. Dr. Tim C. Lueth, Munich, Germany - tim.lueth@tum.de
