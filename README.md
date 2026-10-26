@@ -4,7 +4,7 @@
 
 [![View SG-Lib-Matlab-Toolbox on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/71951-sg-lib-matlab-toolbox)
 [![Latest release](https://img.shields.io/github/v/release/timlueth/SG-Lib-Matlab-Toolbox?label=latest%20release)](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/latest)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License: SG-Lib Academic](https://img.shields.io/badge/license-SG--Lib%20Academic-blue.svg)](LICENSE)
 
 A MATLAB toolbox for solid-geometry modelling, FE-based optimization and multi-body simulation — enabling
 automated design of robots, mechanisms and 3D-printable geometry from a simple conversation.
