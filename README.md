@@ -63,6 +63,14 @@ loadweb('JACO_robot.mat',true)
 
 ---
 
+## What comes next
+
+The next SG-Lib version (**2027**) will also be offered **for Python**. The Python edition can then be used
+from MATLAB through a Python bridge, so existing MATLAB code keeps working while new work can be written in
+either language.
+
+---
+
 ## Releases
 
 | Version | Date | Size | Note |
