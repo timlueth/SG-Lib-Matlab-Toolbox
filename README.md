@@ -62,17 +62,17 @@ loadweb('JACO_robot.mat',true)
 
 ## Releases
 
-| Version | Date | MATLAB | Note |
+| Version | Date | Size | Note |
 |---|---|---|---|
-| **5.6** | 2026-10 | R2024b | Claude interface, slim package, documentation on demand |
-| 5.5.4 | 2025-09 | R2024b | full html documentation inside the package |
-| 5.3 | 2024-06 | R2023a | |
-| 5.0.1 | 2021-02 | R2020a Update 5 | first release for macOS and Windows |
-| 4.9.1 | 2020-08 | R2020a Update 5 | |
-| 4.8 | 2020-01 | R2019a | |
-| 4.7.1 | 2019-08 | R2019a | |
-| 4.6 | 2019-06 | R2019a | |
-| 4.5 | 2019-04 | R2018a | |
+| **[5.6](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/tag/v5.6.0)** | 2026-10 | 46 MB | Claude interface · slim package · documentation and data sets on demand |
+| [5.5.4](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/tag/v5.5.4) | 2025-09 | 223 MB | last version with the full html documentation inside the package |
+| [5.5](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/tag/v5.5.0) | 2025-09 | 33 MB | the version offered at the TUM web site |
+| [5.4](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/tag/v5.4.0) | 2025-05 | 36 MB | |
+| [5.3](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/tag/v5.3.0) | 2023-10 | 44 MB | |
+| [5.2](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/tag/v5.2.0) | 2023-01 | 37 MB | |
+| [4.0 – 5.1](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/tag/v5.1.0) | 2019 – 2022 | 291 MB | 13 versions, collected |
+| [4.8](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/tag/v4.8.0) | 2020-08 | 37 MB | |
+| [3.2 – 3.9](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases/tag/v3.9.0) | 2017 | 103 MB | 10 versions, collected |
 
 All downloads: [releases](https://github.com/timlueth/SG-Lib-Matlab-Toolbox/releases)
 
