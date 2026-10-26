@@ -35,6 +35,9 @@ Download [`SolidGeometry_5.6.mltbx`](https://github.com/timlueth/SG-Lib-Matlab-T
 (46 MB) and double-click it in MATLAB, or install it from
 [MATLAB Central](https://de.mathworks.com/matlabcentral/fileexchange/71951-sg-lib-matlab-toolbox).
 
+If you prefer one single file with everything inside, take `SolidGeometry_5.6_full.mltbx` (199 MB) from the
+same release — it already contains the html documentation and all data sets, so steps 2 and 3 are not needed.
+
 **2 — the html documentation** (about 110 MB, loaded on demand)
 
 ```matlab
@@ -100,9 +103,9 @@ and the [research videos of Tim Lueth](https://www.youtube.com/channel/UCnFHK7B5
 ## Behind the toolbox
 
 The SG-Lib grew out of three decades of research on medical robotics, surgical navigation, additive
-manufacturing and the automated design of mechanisms — including the spin-offs Medineering (Brainlab),
-Laralab (Abbott), Aumatis and FORMOVE, and most recently humanoid robots and generative AI for robot design
-at MIMED.
+manufacturing and the automated design of mechanisms — including the spin-offs RoboDent, ERGOSURG,
+Medineering (Brainlab), Laralab (Abbott), Aumatis and FORMOVE, and most recently humanoid robots and
+generative AI for robot design at MIMED.
 
 **[→ Tim Lueth's research, 1989 – 2026](https://www.mec.ed.tum.de/mimed/research/tim-lueths-research/)**
 
