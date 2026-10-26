@@ -1,0 +1,34 @@
+SG-Lib THIRD-PARTY NOTICE
+=========================
+
+Component : Manifold  (Python package: manifold3d)
+Purpose   : guaranteed-manifold (watertight) mesh boolean and 2D projection engine, used in-process by
+            SGboolManifold / SGboolManifold2 and by CPLofgcaprojection (2D projection via Manifold.project()).
+Project   : https://github.com/elalish/manifold
+Package   : https://pypi.org/project/manifold3d/
+License   : Apache License, Version 2.0
+Copyright : Copyright The Manifold Authors.
+
+Full license text: http://www.apache.org/licenses/LICENSE-2.0
+
+Standard Apache-2.0 notice:
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+Distribution note
+------------------
+The SG-Lib does NOT bundle the Manifold binaries. The manifold3d package is obtained by the user from PyPI
+(installed by SGmanifoldSetup into a private Python venv). The SG-Lib only ships the thin in-process bridge
+CLAUDE_sg_manifold.py (and CLAUDE_sg_manifold_bridge.py), which call into manifold3d. This Apache-2.0 notice is
+provided for attribution and transparency; the Apache-2.0 license permits redistribution and commercial use
+subject to its terms (retain this notice and the license text).
